@@ -3,11 +3,10 @@ compatibility_date = "2024-11-11"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
-[env.production.vars]
-GITHUB_ID = "Ov23liJ6xn11ajarWl8I"
-GITHUB_SECRET = "621035bf9174475a08a478e1442c79d7e3165710"
-GITHUB_OWNER = "LixdHappy"
-GITHUB_REPO = "NavSphere"
-GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.gbfun.cc"
+[env.production.vars] 
+GITHUB_ID = "Ov23liJ6xn11ajarWl8I" 
+GITHUB_OWNER = "LixdHappy" 
+GITHUB_REPO = "NavSphere" 
+GITHUB_BRANCH = "main" 
+NEXTAUTH_URL = "https://nav.gbfun.cc/api/auth" 
 NEXT_PUBLIC_API_URL = "https://nav.gbfun.cc"
