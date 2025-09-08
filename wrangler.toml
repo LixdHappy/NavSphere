@@ -9,5 +9,5 @@ GITHUB_OWNER = "LixdHappy"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://nav.gbfun.cc/api/auth"
-NEXT_PUBLIC_API_URL= "https://nav.gbfun.cc"
+NEXT_PUBLIC_API_URL = "https://nav.gbfun.cc"
 
